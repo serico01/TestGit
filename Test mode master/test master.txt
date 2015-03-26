@@ -1,2 +1,6 @@
 Hello master
+<<<<<<< HEAD
 + nouvelle ligne
+=======
+Hello Stéphane
+>>>>>>> origin/master
