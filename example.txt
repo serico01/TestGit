@@ -1,2 +1,3 @@
-démonstration
-ajout d'une ligne
+<!document HTML>
+
+Test d'ajout de texte
