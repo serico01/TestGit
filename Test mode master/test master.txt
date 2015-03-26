@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-New Master
-=======
-Hello master
-
->>>>>>> parent of 68b231f... Update test master.txt
