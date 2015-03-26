@@ -1,2 +1,6 @@
 Ajout d'une ligne par Martin
+<<<<<<< HEAD
 Ajout d'une ligne par Stéphane
+=======
+Ajout autre ligne Martin
+>>>>>>> origin/master
